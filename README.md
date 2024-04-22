@@ -2,7 +2,8 @@
 > [!IMPORTANT]
 > - 📖 I'm a Software Engineer with a B.S. in Computer Science from Farmingdale State College.
 > - 🔭 Currently working on a parking reservation website (https://csc490-parkingpal.web.app/) and other personal projects.
-> - ⚡ Fun fact: I know how to play the piano
+> - 🌱 I’m currently learning: Microsoft Azure, React, Tailwind
+> - ⚡ Fun fact: I can play the piano
 
  <!---
 > [!IMPORTANT]
