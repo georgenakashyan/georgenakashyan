@@ -1,8 +1,8 @@
 #  Hi! I'm George <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 > [!IMPORTANT]
 > - 📖 I'm a Software Engineer with a B.S. in Computer Science from Farmingdale State College.
-> - 🔭 Currently working on a parking reservation website (https://csc490-parkingpal.web.app/) and other personal projects.
-> - 🌱 I’m currently learning: Microsoft Azure, React, Tailwind
+> - 🔭 Currently working on a text editor without using a textbox from a GUI framework and other personal projects.
+> - 🌱 I’m currently learning: Microsoft Azure and Python
 > - ⚡ Fun fact: I can play the piano
 
  <!---
