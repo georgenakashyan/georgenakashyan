@@ -3,8 +3,7 @@
 > - I'm a Freelance Software Engineer with a B.S. in Computer Science from Farmingdale State College.
 > - I graduated with Summa Cum Laude and Academic Excellence awards.
 > - I have <a href="https://dl.acm.org/doi/10.1145/3625007.3627723">a published paper with ACM</a>.
-> - My current side-project is to make a text editor in C++ without using a textbox from a GUI framework.
-> - I’m currently learning: How to make web apps using Next.js.
+> - My current passion project is to make a text editor in C++ without using a textbox from a GUI framework.
 
  <!---
 > [!IMPORTANT]
