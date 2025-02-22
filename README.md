@@ -45,6 +45,3 @@
     <a href="https://www.linkedin.com/in/george-nakashyan">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
 </p>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=georgenakashyan&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</a>
