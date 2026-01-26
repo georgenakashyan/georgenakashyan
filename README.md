@@ -5,7 +5,7 @@
 > - I'm a Full-Stack Software Engineer with a B.S. in Computer Science from Farmingdale State College.
 > - I graduated with Summa Cum Laude and Academic Excellence awards.
 > - I have <a href="https://dl.acm.org/doi/10.1145/3625007.3627723">a published paper with ACM</a>.
-> - My current passion project is to make a text editor in C++ without using a textbox from a GUI framework.
+> - My current passion project is CrewMile, a navigation app for rally enthusiasts.
 
 <div align="center">
   
